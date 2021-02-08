@@ -1,11 +1,11 @@
-public class Refresco {
+public class Refrescos {
 
 	String marca;
 	String tamaño;
 	double precio;
 	boolean descuento;
 
-	public Refresco(String marca, String tamaño, double precio, boolean descuento) {
+	public Refrescos(String marca, String tamaño, double precio, boolean descuento) {
 		this.marca = marca;
 		this.tamaño = tamaño;
 		this.precio = precio;
